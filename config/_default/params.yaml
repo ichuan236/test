@@ -16,7 +16,7 @@ keywords: The Sillies, silly, sillyb, 大港二中
 logo: images/logo.webp # Logo image. Default to images/logo.webp.
 brand: The Sillies
 
-palette: blue-gray # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette: purple # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
 # palettes:
 #  - blue
