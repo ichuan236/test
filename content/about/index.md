@@ -1,9 +1,9 @@
 +++
-title = "About"
-description = "Describe yourself."
+title = "关于我"
+description = " "
 reward = false
 postDate = false
 readingTime = false
 +++
 
-Hi there, I'm XXX.
+ I'm a silly.

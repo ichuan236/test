@@ -5,19 +5,18 @@ mainSections:
 
 # titleSeparator: '|' # Title separator. Default to -.
 
-description: An extreme fast, responsive and feature-rich blog theme for Hugo
-keywords: Hugo, Bootstrap, Blog Theme
+description: An extreme fast, responsive and feature-rich website for Sillies
+keywords: The Sillies, silly, sillyb, 大港二中
 # images:
 #   - site-feature-image.jpg
 
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
 
-# logo: images/logo.png # Logo image. Default to images/logo.webp.
-# logo: false # Disable Logo
-brand: HBS
+logo: images/logo.webp # Logo image. Default to images/logo.webp.
+brand: The Sillies
 
-palette: purple # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette: blue-gray # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
 # palettes:
 #  - blue
@@ -33,29 +32,29 @@ palette: purple # Default palette. Optional. You'll need to clear the browser ca
 #  - teal
 #  - yellow
 
-# color: dark # light, dark or auto. Default to auto.
+color: auto # light, dark or auto. Default to auto.
 
-# fullWidth: true # Full width.
-# fixedHeader: false # Turn on/off fixed header.
+fullWidth: false # Full width.
+fixedHeader: false # Turn on/off fixed header.
 
 dateFormat: ":date_long"
 
 # Google Adsense
 googleAdsense: 
 
-# math: true # Enable math globally.
-# toc: false # Disable TOC globally.
-# tocPosition: content
+math: true # Enable math globally.
+toc: true # Disable TOC globally.
+tocPosition: content
 # breadcrumb: false # Disable breadcrumb
 # breadcrumbDivider: > # Breadcrumb divider
 # diagram: true
-# socialShare: false # disable social network sharing
-# searchBar: false # disable search-bar
+socialShare: true # disable social network sharing
+searchBar: true # disable search-bar
 
-# poweredBy: false # Whether to show powered by.
+poweredBy: true # Whether to show powered by.
 
-# readingTime: false # Whether to display the reading time.
-# postDate: false # Whether to display the post date in the post meta section.
+readingTime: true # Whether to display the reading time.
+postDate: true # Whether to display the post date in the post meta section.
 
 # featuredPostCount: 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
 # recentPostCount: 10 # The number of recent posts shown in sidebar. Turn off by setting it to false.
@@ -270,35 +269,35 @@ topAppBar:
 social:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
   email: sillybfaq@163.com.tld
-  facebook: yourfacebookusername
+ # facebook: yourfacebookusername
   github: razonyang/hugo-theme-bootstrap
-  gitlab: yourgitlabusername
-  linkedin: yourlinkedinusername
-  xing: yourxingusername
-  stackoverflow: yourstackoverflowuserid
-  twitter: yourtwitterusername
+#  gitlab: yourgitlabusername
+ # linkedin: yourlinkedinusername
+ # xing: yourxingusername
+ # stackoverflow: yourstackoverflowuserid
+#  twitter: yourtwitterusername
   weibo: yourweibousername
   zhihu: yourzhihuusername
-  instagram: yourinstagramusername
-  quora: yourquorausername
-  tumblr: yourtumblrusername
-  reddit: yourredditusername
-  telegram: yourtelegramusername
+#  instagram: yourinstagramusername
+#  quora: yourquorausername
+#  tumblr: yourtumblrusername
+#  reddit: yourredditusername
+#  telegram: yourtelegramusername
   qq: yourqqnumber
-  dockerhub: yourdockerhubusername
-  bitbucket: yourbitbucketworkspaceid
-  kaggle: yourkaggleusername
-  medium: yourmediumusername # Medium username or custom domain(e.g. https://custom.domain.tld).
-  lastfm: yourlastfmusername
+#  dockerhub: yourdockerhubusername
+#  bitbucket: yourbitbucketworkspaceid
+#  kaggle: yourkaggleusername
+#  medium: yourmediumusername # Medium username or custom domain(e.g. https://custom.domain.tld).
+#  lastfm: yourlastfmusername
   bilibili: yourbilibiliuserid
-  youtube: youryoutubechannelid
-  discord: yourdiscordinvitecode
-  discourse: https://yourforum.tld
-  facebookgroup: yourfacebookgroupname
-  #tiktok: yourtiktokusername
-  pinterest: yourpinterestusername
-  mastodon: yourmastodonusername
-  liberapay: yourliberapayaccount
-  paypal: razonyang
-  patreon: razonyang
-  tipeee: yourtipeeeaccount-fr
+#  youtube: youryoutubechannelid
+#  discord: yourdiscordinvitecode
+#  discourse: https://yourforum.tld
+#  facebookgroup: yourfacebookgroupname
+#  tiktok: yourtiktokusername
+#  pinterest: yourpinterestusername
+#  mastodon: yourmastodonusername
+#  liberapay: yourliberapayaccount
+#  paypal: razonyang
+#  patreon: razonyang
+#  tipeee: yourtipeeeaccount-fr

@@ -1,7 +1,7 @@
 baseURL: https://ichuan236.github.io/test/
-title: Hugo Bootstrap Skeleton
+title: The silles
 theme: github.com/razonyang/hugo-theme-bootstrap
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+copyright: 'Copyright © 2016-{year} on SimanZhang. All Rights Reserved.'
 defaultContentLanguage: zh-hans
 hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
