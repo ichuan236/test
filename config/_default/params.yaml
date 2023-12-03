@@ -169,11 +169,11 @@ creativeCommons:
   #moderation: false # Same as Staticman's moderation.
 
 # See https://giscus.app
-giscus:
-  repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
-  repoId: "R_kgDOHJi95g" # required.
-  category: "General" # required.
-  categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
+# giscus:
+#   repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
+#   repoId: "R_kgDOHJi95g" # required.
+#   category: "General" # required.
+#   categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
   # theme: "dark" # Default to auto.
   # mapping: "title" # Default to pathname.
   # inputPosition: "bottom" # Default to top.
@@ -241,24 +241,24 @@ pwa:
     #   src: /images/icons/icon-144x144.png
 
 contact:
-  endpoint: https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd # Backend endpoint, remove this line if you're using Netlify.
+  # endpoint: https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd # Backend endpoint, remove this line if you're using Netlify.
   # file: true # Enable file upload
   # fileField: image # The name of file field.
   # reCaptcha:
     # siteKey: ""
 
-repo:
-  url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
-  branch: main
+# repo:
+  # url: https://github.com/rahttps://ichuan236.github.io/test/zonyang/hugo-theme-bootstrap-skeleton
+  # branch: main
   # subPath: exampleSite
   # dateFormat: 02/01/2006, 15:04:05 PM
 
 topAppBar:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
   social:
-    github: razonyang/hugo-theme-bootstrap
-    patreon: razonyang
-    paypal: razonyang
+    github: https://ichuan236.github.io/test/
+    #patreon: razonyang
+    #paypal: razonyang
 
 #docs:
   # nav:
@@ -269,7 +269,7 @@ topAppBar:
 
 social:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
-  email: user@domain.tld
+  email: sillybfaq@163.com.tld
   facebook: yourfacebookusername
   github: razonyang/hugo-theme-bootstrap
   gitlab: yourgitlabusername
@@ -295,7 +295,7 @@ social:
   discord: yourdiscordinvitecode
   discourse: https://yourforum.tld
   facebookgroup: yourfacebookgroupname
-  tiktok: yourtiktokusername
+  #tiktok: yourtiktokusername
   pinterest: yourpinterestusername
   mastodon: yourmastodonusername
   liberapay: yourliberapayaccount
